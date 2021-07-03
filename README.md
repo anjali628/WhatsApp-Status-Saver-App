@@ -8,7 +8,7 @@ First screen (i.e. Splash Screen) that appears when the user opens the applicati
 
 After this, all the statuses that are on your whatsapp will appear here-
 
-![Screenshot_20210703-211234](https://user-images.githubusercontent.com/64889275/124359783-13065100-dc44-11eb-9194-590ac98f6668.png)
+![Screenshot_20210703-211140](https://user-images.githubusercontent.com/64889275/124359928-a8094a00-dc44-11eb-8f1b-ce79a4a35f45.png)
 
 
 Here, user can choose any status that the user wants to download-
@@ -34,7 +34,7 @@ And when the user click on Download Icon, then-
 
 After clicking on OK Button, the user will be redirected to the screen given below-
 
-![Screenshot_20210703-211140](https://user-images.githubusercontent.com/64889275/124359928-a8094a00-dc44-11eb-8f1b-ce79a4a35f45.png)
+![Screenshot_20210703-211234](https://user-images.githubusercontent.com/64889275/124359783-13065100-dc44-11eb-9194-590ac98f6668.png)
 
 
 And the Status that you have chosen to download is downloaded in your android device in a separate folder-
