@@ -34,17 +34,21 @@ And when the user click on Download Icon, then-
 
 After clicking on OK Button, the user will be redirected to the screen given below-
 
+From here, the user can download as many statuses the user wants.
+
 ![Screenshot_20210703-211234](https://user-images.githubusercontent.com/64889275/124359783-13065100-dc44-11eb-9194-590ac98f6668.png)
 
 
 And the Status that you have chosen to download is downloaded in your android device in a separate folder-
 
-The screenshot that I have shown below is of Photos App.
+The screenshot that I have shown below is of Google Photos App.
 
 ![Screenshot_20210703-211256](https://user-images.githubusercontent.com/64889275/124359981-e69f0480-dc44-11eb-8ceb-f7573151643e.png)
 
 
 If the user wants to see the downloaded Status in Gallery App or in the Files App of Android device, then the user can also view the downloaded status there. It will be visible in phone's storage (Image section).
+
+In this way, the user can download as many Statuses the user wants.
 
 
 
