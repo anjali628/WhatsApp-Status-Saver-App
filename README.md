@@ -12,6 +12,7 @@ After this, all the statuses that are on your whatsapp will appear here-
 
 
 Here, user can choose any status that the user wants to download-
+
 Suppose, I have chosen the status that I have shown below-
 
 ![Screenshot_20210703-211211](https://user-images.githubusercontent.com/64889275/124359826-3f21d200-dc44-11eb-9d83-d10a43606346.png)
